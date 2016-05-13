@@ -1,0 +1,8 @@
+[package]
+name = "rust_tracer"
+version = "0.1.0"
+authors = [" <>"]
+
+[dependencies]
+image = "0.7.0"
+rand = "0.3.14"
